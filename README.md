@@ -1,6 +1,5 @@
 # AYA
-
-It is a website where you can find different restaurants. You can choose your restaurant and see their menu, order what you want and reserve a table if you want.
+Our platform serves as a comprehensive restaurant directory, offering users the ability to explore an array of dining establishments. On our website, you can effortlessly peruse restaurant menus, place orders for your desired dishes, and even make reservations. The entire platform has been meticulously crafted using the Laravel PHP framework, ensuring a seamless and reliable user experience.
 
 ![1](https://user-images.githubusercontent.com/104697889/189755209-2bbc9afc-d8af-401a-896a-92bdb9a385b4.PNG)
 ![2](https://user-images.githubusercontent.com/104697889/189755273-6c3e66f2-c953-483e-8161-48ff2ad77cf1.PNG)
