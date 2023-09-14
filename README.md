@@ -1,6 +1,6 @@
 # AYA
 
-It is a website where you can find different restaurants. You can choose you restaurant and see their menu, order what you want and reserve a table if you want.
+It is a website where you can find different restaurants. You can choose your restaurant and see their menu, order what you want and reserve a table if you want.
 
 ![1](https://user-images.githubusercontent.com/104697889/189755209-2bbc9afc-d8af-401a-896a-92bdb9a385b4.PNG)
 ![2](https://user-images.githubusercontent.com/104697889/189755273-6c3e66f2-c953-483e-8161-48ff2ad77cf1.PNG)
